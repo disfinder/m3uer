@@ -1,0 +1,1 @@
+Simple script to produce an M3U playlist from a local folder.
